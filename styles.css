@@ -2143,7 +2143,7 @@ footer {
 .calameo-wrapper {
   text-align: center;
   max-width: 900px;   /* controla el tamaño */
-  margin: 0px auto 0px auto;
+  margin: -30px auto 5px auto;
 }
 
 .calameo-title {
@@ -2172,6 +2172,7 @@ footer {
   height: 100%;
   border: none;
 }
+
 
 
 
