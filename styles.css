@@ -2138,3 +2138,39 @@ footer {
     opacity: 1;
   }
 }
+
+/*REVISTA */
+.calameo-wrapper {
+  text-align: center;
+  max-width: 900px;   /* controla el tamaño */
+  margin: -140px auto 60px auto;
+}
+
+.calameo-title {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #ffffff;     /* ajusta a tu fondo */
+  text-decoration: none;
+}
+
+.calameo-title:hover {
+  text-decoration: underline;
+}
+
+.calameo-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 9 / 10; /* más grande y cómodo */
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.calameo-embed iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+
